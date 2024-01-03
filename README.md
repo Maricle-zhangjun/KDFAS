@@ -1,7 +1,7 @@
 # KDFAS: Multi-stage Knowledge Distillation Vision Transformer for Face Anti-spoofing
 
 ---
-This is the official repository for the paper "KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing", which has been accepted at PRCV 2023 and can be found in [here](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_13).
+This is an official repository for the paper "KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing", which has been accepted at PRCV 2023 and can be found [here](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_13).
 
 ## Pipeline Overview
 ![overview](images/framework.png)
