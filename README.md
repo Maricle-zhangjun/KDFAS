@@ -6,7 +6,7 @@ This is an official repository for the paper "KDFAS: Multi-Stage Knowledge Disti
 ## Pipeline Overview
 ![overview](images/framework.png)
 
-If you use KDFAS in this repository, please cite the following paper:
+If you use KDFAS in this repository, please consider the following BibTeX entry and giving us a star:
 ```
 @InProceedings{KDFAS,
   author    = {Zhang, Jun and Zhang, Yunfei and Shao, Feixue and Ma, Xuetao and Zhou, Daoxiang},
