@@ -10,8 +10,8 @@ If you use KDFAS in this repository, please consider the following BibTeX entry 
 ```
 @InProceedings{KDFAS,
   author    = {Zhang, Jun and Zhang, Yunfei and Shao, Feixue and Ma, Xuetao and Zhou, Daoxiang},
-  booktitle = {Pattern Recognition and Computer Vision},
   title     = {KDFAS: Multi-stage Knowledge Distillation Vision Transformer for Face Anti-spoofing},
+  booktitle = {Pattern Recognition and Computer Vision},
   year      = {2024},
   pages     = {159--171},
   publisher = {Springer Nature Singapore},
